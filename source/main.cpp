@@ -19,7 +19,10 @@ int main (){
 	/*Variable*/
 
 	/*Input Output*/
-
+	int number = int();
+	cout << "\n請輸入數字: ";
+	cin >> number;
+	cout << "輸入的數字" << number << "\n\n";
 	system("pause");
 	return 0;
 }
