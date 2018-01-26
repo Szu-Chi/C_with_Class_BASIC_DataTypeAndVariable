@@ -4,7 +4,8 @@ using namespace std;
 
 int main (){
 	/*Hello World!*/
-
+	cout << "Hello! World!\n";
+	cout << "«¢Åo! C++\n";
 	/*Data Type*/
 	cout << "\n«¬ºA\t\t¤j¤p(bytes)";
 	cout << "\nint\t\t" << sizeof(int);
