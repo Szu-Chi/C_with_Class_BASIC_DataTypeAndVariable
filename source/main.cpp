@@ -17,6 +17,19 @@ int main (){
 	/*Literal constant*/
 
 	/*Variable*/
+	int ageForStudent;
+	double scoreForStudent;
+	char levelForStudent;
+
+	ageForStudent = 5;
+	scoreForStudent = 80.0;
+	levelForStudent = 'B';
+
+	cout << "\n年級\t得分\t等級";
+	cout << "\n" << ageForStudent
+		<< "\t" << scoreForStudent
+		<< "\t" << levelForStudent
+		<< "\n";
 
 	/*Input Output*/
 
